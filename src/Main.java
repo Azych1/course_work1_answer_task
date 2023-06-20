@@ -9,4 +9,5 @@ public class Main {
     public static int squaringANumber(int number) {
         return (int) Math.pow(number, 2);
     }
+
 }
